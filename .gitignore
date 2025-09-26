@@ -12,6 +12,6 @@ venv.bak/
 .chats/
 .profiles/
 __pycache__
-main/firebase-key.json
+./main/firebase-key.json
 *.ico
 *.png
